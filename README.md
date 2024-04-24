@@ -3,6 +3,7 @@
 将他放置到创建的虚拟环境根目录里面即可
 
 ![image](https://github.com/PlusTop/FastVenv/assets/105430146/440e71a9-217a-4684-b07d-2a893247708a)
+
 这样就可以实现打开快速打开Venv环境
 
 ![t1](https://github.com/PlusTop/FastVenv/assets/105430146/aca78726-bc8c-40e9-b615-d1cdb04854dd)
